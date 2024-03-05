@@ -121,8 +121,29 @@ padding: 30px 100px;
 
  .resume-title{
     text-align: center;
+    margin: 100px;
  }
  .son-of-resume{
     display: flex;
- }
+  margin: 150px;
+/* padding: 230px; */
+
+
+}
+.color{
+font-style: normal;
+    font-size: 30px;
+    font-weight: 700; 
+    color: var(--Dark-02, #474747); 
+}
+.resume-sub-sub{
+    color: var(--Dark-03, #757575);
+
+}
+hr{
+    
+}
+
+
+ 
 
